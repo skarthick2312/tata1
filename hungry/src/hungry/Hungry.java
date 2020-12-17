@@ -15,7 +15,7 @@ public class Hungry {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("i am karthick");
+        System.out.println("i am working in tcs");
     }
     
 }
